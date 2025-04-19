@@ -1,0 +1,15 @@
+{
+  "name": "x_server",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "xserver"
+  ],
+  "license": "MIT",
+  "author": "UjjwalS",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
